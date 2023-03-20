@@ -33,6 +33,8 @@ nav_order: 5
 
 # Working papers
 
+- Lisa Meehan, Gail Pacheco, and Thomas Schober (2023). Basic reading and mathematics skills and the labour market outcomes of young people: Evidence from PISA and linked administrative data. Faculty of Business, Economics and Law, Auckland University of Technology, [Economics Working Paper 2023/01](https://www.aut.ac.nz/__data/assets/pdf_file/0004/763510/working-paper-23_01.pdf)
+
 - Simon Baumgartner, Alex Stomper, Thomas Schober, and Rudolf Winter-Ebmer (2022). Banking on Snow: Bank Capital, Risk, and Employment. Department of Economics, Johannes Kepler University Linz, [Working Paper 2210](http://www.economics.jku.at/papers/2022/wp2210.pdf)  
 
 - Sylvia Frühwirth-Schnatter, Martin Halla, Alexandra Posekany, Gerald J. Pruckner, Thomas Schober, "The Quantity and Quality of Children: A Semi-Parametric Bayesian IV Approach", Department of Economics, Johannes Kepler University Linz, [Working Paper 1403](http://www.econ.jku.at/papers/2014/wp1403.pdf)  
