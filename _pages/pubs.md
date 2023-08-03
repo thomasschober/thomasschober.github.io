@@ -56,7 +56,7 @@ life-course outcomes: Evidence from PIAAC and linked administrative data. [NZ Wo
 
 # Non-refereed publications
 
-- Gail Pacheco, Lisa Meehan, and Thomas Schober (2022). Curriculum changes must tackle the lifelong consequences of NZ's alarming literacy and numeracy declines. [The Conversation](https://theconversation.com/curriculum-changes-must-tackle-the-lifelong-consequences-of-nzs-alarming-literacy-and-numeracy-declines-209326), Auckland, NZ.
+- Gail Pacheco, Lisa Meehan, and Thomas Schober (2023). Curriculum changes must tackle the lifelong consequences of NZ's alarming literacy and numeracy declines. [The Conversation](https://theconversation.com/curriculum-changes-must-tackle-the-lifelong-consequences-of-nzs-alarming-literacy-and-numeracy-declines-209326), Auckland, NZ.
 
 - Gerald J Pruckner and Thomas Schober (2017). "Ökonomische Anreize für einen gesunden
 Lebensstil – wissenschaftlicher Mythos oder ernsthafte Reformoption?" [Zeitschrift für
