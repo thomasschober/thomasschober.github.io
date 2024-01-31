@@ -41,6 +41,8 @@ nav_order: 5
 
 # Research reports
 
+- Iusitini, Leon, Gail Pacheco, and Thomas Schober (2023). Assessing the impact of the COVID-19 pandemic on childhood vaccine uptake with integrated administrative data. [NZ Work Research Institute](https://workresearch.aut.ac.nz/__data/assets/pdf_file/0011/851555/Assessing-the-impact-of-the-COVID-19-pandemic-on-childhood-vaccine-uptake-with-integrated-administrative-data_revised-20240111.pdf), Auckland, NZ.
+
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2022). Literacy and numeracy skills and
 life-course outcomes: Evidence from PIAAC and linked administrative data. [NZ Work Research Institute](https://workresearch.aut.ac.nz/__data/assets/pdf_file/0005/693788/PIAAC-trajectories_MBIE-working-paper.pdf), Auckland, NZ.
 
