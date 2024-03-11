@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Senior Research Fellow at the [New Zealand Work Research Institute](https://workresearch.aut.ac.nz/) at the Auckland University of Technology. Before joining the AUT in 2021, I worked for the Department of Economics at the Johannes Kepler University Linz. I study topics in health, family, and labour economics.
+I am a Senior Research Fellow at the [New Zealand Policy Research Institute](https://nzpri.aut.ac.nz/) (formerly known as New Zealand Work Research Institute) at the Auckland University of Technology. Before joining the AUT in 2021, I worked for the Department of Economics at the Johannes Kepler University Linz. I study topics in health, family, and labour economics.
 
 [thomas.schober@aut.ac.nz](mailto:thomas.schober@aut.ac.nz)
 
