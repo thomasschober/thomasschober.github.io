@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- Iusitini, Leon, Gail Pacheco, and Thomas Schober (2024). Assessing the impact of the COVID-19 pandemic on childhood vaccine uptake with integrated administrative data. [SSM - Population Health](https://doi.org/10.1016/j.ssmph.2024.101657).
+
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2023). Basic reading and mathematics skills and the labour market outcomes of young people: Evidence from PISA and linked administrative data. [Economic Record](https://doi.org/10.1111/1475-4932.12755).
 
 - Martin Halla, Gerald J Pruckner, and Thomas Schober (2022). "Paying adolescents for health screenings works". [American Journal of Health Economics](https://doi.org/10.1086/721571). [[working paper verison]](http://www.economics.jku.at/papers/2021/wp2104.pdf)
