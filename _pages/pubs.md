@@ -11,7 +11,7 @@ nav_order: 5
 
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2023). Basic reading and mathematics skills and the labour market outcomes of young people: Evidence from PISA and linked administrative data. [Economic Record](https://doi.org/10.1111/1475-4932.12755).
 
-- Martin Halla, Gerald J Pruckner, and Thomas Schober (2022). "Paying adolescents for health screenings works". [American Journal of Health Economics](https://doi.org/10.1086/721571). [[working paper verison]](http://www.economics.jku.at/papers/2021/wp2104.pdf)
+- Martin Halla, Gerald J Pruckner, and Thomas Schober (2022). "Paying adolescents for health screenings works". [American Journal of Health Economics](https://doi.org/10.1086/721571). [[working paper version]](http://www.economics.jku.at/papers/2021/wp2104.pdf)
 
 - Friedrich Breyer, Normann Lorenz, Gerald J Pruckner, and Thomas Schober (2022). "Looking into the black box of 'medical innovation': rising health expenditures by illness type". [The European Journal of Health Economics](https://doi.org/10.1007/s10198-022-01447-9).
 
@@ -19,19 +19,19 @@ nav_order: 5
 
 - Thomas Schober and Katrin Zocher (2022). "Health-care utilization of refugees: evidence from Austria". [International Migration Review](https://doi.org/10.1177/01979183211061091) 56.3, pp. 810–842.
 
-- Gerald J Pruckner, Nicole Schneeweis, Thomas Schober, and Martina Zweimüller (2021). "Birth order, parental health investment and health in childhood". [Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2021.102426) 76. [[working paper verison]](http://cdecon.jku.at/wp-content/uploads/CD_1901.pdf)
+- Gerald J Pruckner, Nicole Schneeweis, Thomas Schober, and Martina Zweimüller (2021). "Birth order, parental health investment and health in childhood". [Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2021.102426) 76. [[working paper version]](http://cdecon.jku.at/wp-content/uploads/CD_1901.pdf)
 
 - Alexander Ahammer and Thomas Schober (2020). "Explaining variations in health care expenditures – What is the role of practice styles?" [Health Economics](https://doi.org/10.1002/hec.4011) 29.6.
 
 - Gerald J Pruckner, Thomas Schober, and Katrin Zocher (2020). "The company you keep: health behavior among work peers". [The European Journal of Health Economics](https://doi.org/10.1002/hec.4011) 21, pp. 251–259.
 
-- Thomas Schober (2020). "Effects of a measles outbreak on vaccination uptake". [Economics and Human Biology](https://doi.org/10.1016/j.ehb.2020.100871) 38. [[working paper verison]](http://cdecon.jku.at/wp-content/uploads/CD_1807.pdf)
+- Thomas Schober (2020). "Effects of a measles outbreak on vaccination uptake". [Economics and Human Biology](https://doi.org/10.1016/j.ehb.2020.100871) 38. [[working paper version]](http://cdecon.jku.at/wp-content/uploads/CD_1807.pdf)
 
 - Gerald J Pruckner and Thomas Schober (2018). "Hospitals and the generic versus brandname prescription decision in the outpatient sector". [Health Economics](https://doi.org/10.1002/hec.3774) 27.8, pp. 1264–1283.
 
-- Alice Sanwald and Thomas Schober (2017). "Follow your heart: Survival chances and costs after heart attacks – an instrumental variable approach". [Health Services Research](https://doi.org/10.1111/1475-6773.12509) 52.1, pp. 16–34. [[working paper verison]](http://cdecon.jku.at/wp-content/uploads/Follow-your-heart111.pdf)
+- Alice Sanwald and Thomas Schober (2017). "Follow your heart: Survival chances and costs after heart attacks – an instrumental variable approach". [Health Services Research](https://doi.org/10.1111/1475-6773.12509) 52.1, pp. 16–34. [[working paper version]](http://cdecon.jku.at/wp-content/uploads/Follow-your-heart111.pdf)
 
-- Martin Halla, Gerald J Pruckner, and Thomas Schober (2016). "Cost savings of developmental screenings: Evidence from a nationwide program". [Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2016.06.011) 49, pp. 120–135. [[working paper verison]](http://ftp.iza.org/dp9303.pdf)
+- Martin Halla, Gerald J Pruckner, and Thomas Schober (2016). "Cost savings of developmental screenings: Evidence from a nationwide program". [Journal of Health Economics](https://doi.org/10.1016/j.jhealeco.2016.06.011) 49, pp. 120–135. [[working paper version]](http://ftp.iza.org/dp9303.pdf)
 
 - Thomas Schober and Rudolf Winter-Ebmer (2011). "Gender wage inequality and economic growth: Is there really a puzzle? – A comment". [World Development](https://doi.org/10.1016/j.worlddev.2011.05.001) 39.8, pp. 1476–1484.
 
