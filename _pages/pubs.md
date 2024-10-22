@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+- Lisa Meehan, Gail Pacheco, and Thomas Schober (2024). Literacy and numeracy skills and life-course outcomes: Evidence from PIAAC and linked administrative data. [The Australian Journal of Labour Economics](https://ajle.org/index.php/ajle_home/article/view/215).
+
 - Iusitini, Leon, Gail Pacheco, and Thomas Schober (2024). Assessing the impact of the COVID-19 pandemic on childhood vaccine uptake with integrated administrative data. [SSM - Population Health](https://doi.org/10.1016/j.ssmph.2024.101657).
 
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2023). Basic reading and mathematics skills and the labour market outcomes of young people: Evidence from PISA and linked administrative data. [Economic Record](https://doi.org/10.1111/1475-4932.12755).
