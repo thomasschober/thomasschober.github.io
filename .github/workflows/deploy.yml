@@ -20,7 +20,9 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
+        bundler-cache: true        
+    - name: Upgrade Bundler to avoid default gem conflicts
+        run: gem install bundler
     - name: Install deps
       run: |
         npm install -g mermaid.cli
