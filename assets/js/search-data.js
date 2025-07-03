@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "List of publications",
           section: "Navigation",
           handler: () => {
             window.location.href = "/pubs/";
+          },
+        },{id: "nav-code",
+          title: "Code",
+          description: "Stata commands and tools",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
           },
         },{id: "post-a-post-with-plotly-js",
         
