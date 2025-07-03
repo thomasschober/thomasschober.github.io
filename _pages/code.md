@@ -4,7 +4,7 @@ title: Code
 permalink: /code/
 nav: true
 nav_order: 6
-description: "Stata commands and tools"
+description:
 ---
 
 This page contains Stata tools and scripts I’ve written.
