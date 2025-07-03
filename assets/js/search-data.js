@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "List of publications",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/pubs/";
           },
         },{id: "nav-code",
           title: "Code",
-          description: "Stata commands and tools",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/code/";
