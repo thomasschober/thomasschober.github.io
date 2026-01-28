@@ -39,6 +39,8 @@ nav_order: 5
 
 # Working papers
 
+- Thomas Schober (2026). Birth order and infant health: evidence from maternal immunisation in New Zealand. Economics working paper series, Auckland University of Technology, [Working Paper 2026-01](https://www.aut.ac.nz/__data/assets/pdf_file/0006/1089141/working-paper-26-01.pdf)  
+
 - Gerald J Pruckner, and Thomas Schober (2025). Evaluating hospital performance. Department of Economics, Johannes Kepler University Linz, [Working Paper 2503](http://www.econ.jku.at/papers/2025/wp2503.pdf)  
  
 - Simon Baumgartner, Alex Stomper, Thomas Schober, and Rudolf Winter-Ebmer (2022). Banking on Snow: Bank Capital, Risk, and Employment. Department of Economics, Johannes Kepler University Linz, [Working Paper 2210](http://www.economics.jku.at/papers/2022/wp2210.pdf)  
@@ -46,6 +48,10 @@ nav_order: 5
 - Sylvia Frühwirth-Schnatter, Martin Halla, Alexandra Posekany, Gerald J. Pruckner, Thomas Schober, "The Quantity and Quality of Children: A Semi-Parametric Bayesian IV Approach", Department of Economics, Johannes Kepler University Linz, [Working Paper 1403](http://www.econ.jku.at/papers/2014/wp1403.pdf)  
 
 # Research reports
+
+- Lisa Meehan, Gail Pacheco, and Thomas Schober (2025). Workforce Diversity and Firm Productivity in New Zealand. [NZ Policy Research Institute](https://nzpri.aut.ac.nz/__data/assets/pdf_file/0010/1087066/Firm-Prod-and-Divers.-160126.pdf), Auckland, NZ.
+
+- Lisa Meehan, Gail Pacheco, and Thomas Schober (2025). Trends in Occupational Segregation Between Women and Men in New Zealand. [NZ Policy Research Institute](https://nzpri.aut.ac.nz/__data/assets/pdf_file/0003/1084305/OccSeg-160126.pdf), Auckland, NZ.
 
 - Iusitini, Leon, Gail Pacheco, and Thomas Schober (2023). Assessing the impact of the COVID-19 pandemic on childhood vaccine uptake with integrated administrative data. [NZ Work Research Institute](https://workresearch.aut.ac.nz/__data/assets/pdf_file/0011/851555/Assessing-the-impact-of-the-COVID-19-pandemic-on-childhood-vaccine-uptake-with-integrated-administrative-data_revised-20240111.pdf), Auckland, NZ.
 
