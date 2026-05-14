@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 
+- Thomas Schober (2026). Birth order and infant health: Evidence from maternal immunisation in New Zealand. [Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2026.119352).
+
+- Gerald J Pruckner, and Thomas Schober (2026). Evaluating hospital performance. The European Journal of Health Economics, forthcoming. [working paper version](http://www.econ.jku.at/papers/2025/wp2503.pdf).
+
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2024). Literacy and numeracy skills and life-course outcomes: Evidence from PIAAC and linked administrative data. [The Australian Journal of Labour Economics](https://ajle.org/index.php/ajle_home/article/view/215).
 
 - Iusitini, Leon, Gail Pacheco, and Thomas Schober (2024). Assessing the impact of the COVID-19 pandemic on childhood vaccine uptake with integrated administrative data. [SSM - Population Health](https://doi.org/10.1016/j.ssmph.2024.101657).
@@ -41,10 +45,6 @@ nav_order: 5
 
 - Iusitini, Leon, Gail Pacheco, and Thomas Schober (2026). Explaining the decline in childhood immunisation: socioeconomic, parental, and health system drivers. Economics working paper series, Auckland University of Technology, [Working Paper 2026-02](https://www.aut.ac.nz/__data/assets/pdf_file/0005/1097924/working-paper-26-02.pdf).
 
-- Thomas Schober (2026). Birth order and infant health: evidence from maternal immunisation in New Zealand. Economics working paper series, Auckland University of Technology, [Working Paper 2026-01](https://www.aut.ac.nz/__data/assets/pdf_file/0006/1089141/working-paper-26-01.pdf).
-
-- Gerald J Pruckner, and Thomas Schober (2025). Evaluating hospital performance. Department of Economics, Johannes Kepler University Linz, [Working Paper 2503](http://www.econ.jku.at/papers/2025/wp2503.pdf).
- 
 - Simon Baumgartner, Alex Stomper, Thomas Schober, and Rudolf Winter-Ebmer (2022). Banking on Snow: Bank Capital, Risk, and Employment. Department of Economics, Johannes Kepler University Linz, [Working Paper 2210](http://www.economics.jku.at/papers/2022/wp2210.pdf).
 
 - Sylvia Frühwirth-Schnatter, Martin Halla, Alexandra Posekany, Gerald J. Pruckner, Thomas Schober, "The Quantity and Quality of Children: A Semi-Parametric Bayesian IV Approach", Department of Economics, Johannes Kepler University Linz, [Working Paper 1403](http://www.econ.jku.at/papers/2014/wp1403.pdf).
