@@ -11,7 +11,7 @@ nav_order: 5
 
 - Schober, Thomas, Nicholas Bowden, Stephanie D'Souza, Sheree Gibb, Barry Milne, and Lisa Meehan (2026). Data Resource Profile: Education and Health Data in New Zealand's Integrated Data Infrastructure. [International Journal of Population Data Science](https://doi.org/10.23889/ijpds.v11i2.3364).
 
-- Gerald J Pruckner, and Thomas Schober (2026). Evaluating hospital performance. The European Journal of Health Economics, forthcoming. [working paper version](http://www.econ.jku.at/papers/2025/wp2503.pdf).
+- Gerald J Pruckner, and Thomas Schober (2026). Evaluating hospital performance. [The European Journal of Health Economics](https://link.springer.com/article/10.1007/s10198-026-01936-1).
 
 - Lisa Meehan, Gail Pacheco, and Thomas Schober (2024). Literacy and numeracy skills and life-course outcomes: Evidence from PIAAC and linked administrative data. [The Australian Journal of Labour Economics](https://ajle.org/index.php/ajle_home/article/view/215).
 
